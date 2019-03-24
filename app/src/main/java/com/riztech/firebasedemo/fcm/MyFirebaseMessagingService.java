@@ -17,7 +17,7 @@ import android.support.v4.app.NotificationCompat;
 
 import com.google.firebase.messaging.FirebaseMessagingService;
 import com.google.firebase.messaging.RemoteMessage;
-import com.riztech.firebasedemo.MainActivity;
+import com.riztech.firebasedemo.view.MainActivity;
 import com.riztech.firebasedemo.R;
 
 import java.io.InputStream;
